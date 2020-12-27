@@ -1,0 +1,16 @@
+body {
+	background-color: aliceblue !important;
+}
+
+.App {
+	padding: 1em;
+	
+}
+
+.react-datepicker-wrapper {
+	width: 100%;
+}
+
+input,select, button {
+	margin-bottom: 1em !important;
+}
